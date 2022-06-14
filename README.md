@@ -37,3 +37,4 @@ To run tests type `npm test`. Server does not need to be running in another inst
 Basic tests that will check if routes are working correctly
 
 #### UML
+<img width="400" alt="Screen Shot 2022-06-14 at 3 45 38 PM" src="https://user-images.githubusercontent.com/55909913/173701721-fa9738a5-b0cb-4a78-a22b-f7f447f9e931.png">
