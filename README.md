@@ -9,8 +9,8 @@ Setting up a basic express server to configure heroku deployment and to create t
 
 ### Links and Resources
 - [Github](https://github.com/Cozhee/server-deployment-practice/pulls)
-- [Heroku Dev Deployment](https://cody-server-deploy-dev.herokuapp.com/)
-- [Heroku Production Deployment](https://cody-server-deploy-prod.herokuapp.com/)
+- [AWS CLI deployment](http://basicexpressserver.eba-gbmaecgh.us-west-2.elasticbeanstalk.com/person?name=cody)
+- [AWS GUI deployment](http://beanstalkiselastic-env.eba-jmrepq37.us-west-2.elasticbeanstalk.com/person?name=Jonald)
 
 ### Setup
 
